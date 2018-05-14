@@ -11,6 +11,7 @@ Required Mods are additional food and/or drinks distributed in the game.
 
 * [Sim Settlements - Altairp's Animal Farm](https://www.nexusmods.com/fallout4/mods/23421) ( Altairp's Animal Farm.esp )
 * [Sim Settlements - Wasteland Venturers 2 (All-In-One)](https://www.nexusmods.com/fallout4/mods/30081) ( WVSimSAddon.esp )
+* [Vegetarian Food and Recipes](https://www.nexusmods.com/fallout4/mods/16972) ( JokerineFO4VeggieFood.esp )
 
 ## Required Creation Club Items
 Required Creation Club Items are additional food and/or drinks distributed in the game.
@@ -27,11 +28,13 @@ Required Creation Club Items are additional food and/or drinks distributed in th
 * Coffee and Donuts Workshop Pack coffees now use Brahmin Milk from Altairp's Animal Farm.
 * Brahmin Milk, Molerat Milk and Cat Milk from Altairp's Animal Farm now available in vendors.
 * Universal Library Coffee now creates Coffee and Donuts Workshop Pack basic and alchoholic coffees.
+* Vegetarian Food and Recipes non-alchoholic drinks are now available in vendors.
 
 ### Food
 * Far Harbor and Nuka-World meat is now found in the Commonwealth.
 * Cotton Candy Bites are now found in the Commonwealth.
 * Coffee tins can now be crafted at Universal Library Coffee.
+* Vegetarian Food and Recipes foods are now available in vendors.
 
 ### Chems
 * Nuka-World chems are now found in the Commonwealth.
