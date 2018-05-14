@@ -9,7 +9,7 @@ This is an overhaul and integration of all DLC, and a few select mods.
 ## Required Mods
 Required Mods are additional food and/or drinks distributed in the game.
 
-* [Mod Name](website address) ( esp/esl name )
+* [Sim Settlements - Altairp's Animal Farm](https://www.nexusmods.com/fallout4/mods/23421) ( Altairp's Animal Farm.esp )
 
 ## Required Creation Club Items
 Required Creation Club Items are additional food and/or drinks distributed in the game.
@@ -23,6 +23,8 @@ Required Creation Club Items are additional food and/or drinks distributed in th
 * Non mixer Nuka-World Nuka-Cola is now sold in the Commonwealth.
 * Non mixer alchoholic Nuka-Cola is now found with other alchohol.
 * Vim is now sold in the Commonwealth.
+* Coffee and Donuts Workshop Pack coffees now use Brahmin Milk from Altairp's Animal Farm.
+* Brahmin Milk, Molerat Milk and Cat Milk from Altairp's Animal Farm now available in vendors.
 
 ### Food
 * Far Harbor and Nuka-World meat is now found in the Commonwealth.
