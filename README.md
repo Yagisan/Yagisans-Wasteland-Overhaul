@@ -20,6 +20,11 @@ Required Creation Club Items are additional food and/or drinks distributed in th
 
 ## Changes
 
+### Loot
+* Commonwealth animals no longer drop caps, junk, weapons or armor on death.
+* Far Harbor animals no longer drop caps, junk, weapons or armor on death.
+* Nuka-World animals no longer drop caps, junk, weapons or armor on death.
+
 ### Drinks
 * Nuka-Cola in the Commonwealth will now be found at the same ratio as in Nuka-World.
 * Non mixer Nuka-World Nuka-Cola is now sold in the Commonwealth.
