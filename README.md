@@ -25,6 +25,15 @@ Required Creation Club Items are additional food and/or drinks distributed in th
 * Far Harbor animals no longer drop caps, junk, weapons or armor on death.
 * Nuka-World animals no longer drop caps, junk, weapons or armor on death.
 
+### Weapons and Ammo
+* Far Harbor weapons can now be found in The Commonwealth and Nuka-World.
+* Nuka-World weapons can now be found in The Commonwealth and Far Harbor.
+* Far Harbor ammo can now be found in The Commonwealth and Nuka-World.
+* Nuka-World ammo can now be found in The Commonwealth and Far Harbor.
+
+### Clothes
+* Nuka-World clothes can now be found in The Commonwealth and Far Harbor.
+
 ### Drinks
 * Nuka-Cola in the Commonwealth will now be found at the same ratio as in Nuka-World.
 * Non mixer Nuka-World Nuka-Cola is now sold in the Commonwealth.
