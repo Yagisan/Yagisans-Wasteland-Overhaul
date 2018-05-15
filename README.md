@@ -64,3 +64,11 @@ Required Creation Club Items are additional food and/or drinks distributed in th
 
 #### The Disciples
 * The Disciples now only wear The Disciples armor.
+
+#### Diamond City Guards.
+* Diamond City Guards now have a variety of helmets to wear.
+* Diamond City Guards now have randomised DC Guard uniforms.
+* Diamond City Guards now have a randomisedselection of undergarments.
+* Diamond City Guards now use Swatters instead of Baseball bats.
+* Diamond City Guards now have a greater selection of guns to use.
+* Diamond City Guards now have a greater variety of faces.
