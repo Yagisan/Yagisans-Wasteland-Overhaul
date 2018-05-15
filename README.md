@@ -52,3 +52,15 @@ Required Creation Club Items are additional food and/or drinks distributed in th
 
 ### Chems
 * Nuka-World chems are now found in the Commonwealth.
+
+### Factions
+
+
+#### The Pack
+* The Pack now only wear The Pack armor.
+
+#### The Operators
+* The Operators now only wear The Operators armor.
+
+#### The Disciples
+* The Disciples now only wear The Disciples armor.
