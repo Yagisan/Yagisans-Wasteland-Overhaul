@@ -3,6 +3,7 @@
 This is an overhaul and integration of all DLC, and a few select mods.
 
 ## Required DLC
+* Automatron
 * Far Harbor
 * Nuka-World
 
@@ -55,6 +56,8 @@ Required Creation Club Items are additional food and/or drinks distributed in th
 
 ### Factions
 
+#### Automatron Robots
+* Automatron Robots recruit dialogue will come up only if you choose to initiate the conversation.
 
 #### The Pack
 * The Pack now only wear The Pack armor.
