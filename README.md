@@ -19,6 +19,7 @@ Required Creation Club Items are additional items distributed in the game.
 
 * [Coffee and Donuts Workshop Pack](https://creationclub.bethesda.net/en) (ccfsvfo4003-slocum.esl )
 * [Armor Paint Job - Brotherhood of Steel](https://creationclub.bethesda.net/en) ( ccgcafo4013-factionas02bos.esl )
+* [Weapon Paint Job - Brotherhood of Steel](https://creationclub.bethesda.net/en) ( ccgcafo4003-factionws03bos.esl )
 
 ## Changes
 
@@ -59,6 +60,7 @@ Required Creation Club Items are additional items distributed in the game.
 
 #### Brotherhood of Steel
 * The Brotherhood of Steel now only wear Brotherhood of Steel armor.
+* The Brotherhood of Steel now use Brotherhood of Steel branded laser weapons.
 
 #### The Pack
 * The Pack now only wear The Pack armor.
@@ -83,7 +85,7 @@ Required Creation Club Items are additional items distributed in the game.
 * Automatron Robots recruit dialogue will come up only if you choose to initiate the conversation.
 
 #### Proctor Teagan
-* Proctor Teagan now sells BoS Clothing.
+* Proctor Teagan now sells BoS Clothing, and BoS Combat Armor.
 
 #### Ronnie Shaw
 * Ronnie Shaw now sells MM Clothing.
