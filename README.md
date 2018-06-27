@@ -15,9 +15,10 @@ Required Mods are additional food and/or drinks distributed in the game.
 * [Vegetarian Food and Recipes](https://www.nexusmods.com/fallout4/mods/16972) ( JokerineFO4VeggieFood.esp )
 
 ## Required Creation Club Items
-Required Creation Club Items are additional food and/or drinks distributed in the game.
+Required Creation Club Items are additional items distributed in the game.
 
 * [Coffee and Donuts Workshop Pack](https://creationclub.bethesda.net/en) (ccfsvfo4003-slocum.esl )
+* [Armor Paint Job - Brotherhood of Steel](https://creationclub.bethesda.net/en) ( ccgcafo4013-factionas02bos.esl )
 
 ## Changes
 
@@ -56,8 +57,8 @@ Required Creation Club Items are additional food and/or drinks distributed in th
 
 ### Factions
 
-#### Automatron Robots
-* Automatron Robots recruit dialogue will come up only if you choose to initiate the conversation.
+#### Brotherhood of Steel
+* The Brotherhood of Steel now only wear Brotherhood of Steel armor.
 
 #### The Pack
 * The Pack now only wear The Pack armor.
@@ -78,7 +79,11 @@ Required Creation Club Items are additional food and/or drinks distributed in th
 
 ### NPCS
 
+#### Automatron Robots
+* Automatron Robots recruit dialogue will come up only if you choose to initiate the conversation.
+
 #### Proctor Teagan
 * Proctor Teagan now sells BoS Clothing.
 
+#### Ronnie Shaw
 * Ronnie Shaw now sells MM Clothing.
