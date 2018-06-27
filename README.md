@@ -75,3 +75,10 @@ Required Creation Club Items are additional food and/or drinks distributed in th
 * Diamond City Guards now use Swatters instead of Baseball bats.
 * Diamond City Guards now have a greater selection of guns to use.
 * Diamond City Guards now have a greater variety of faces.
+
+### NPCS
+
+#### Proctor Teagan
+* Proctor Teagan now sells BoS Clothing.
+
+* Ronnie Shaw now sells MM Clothing.
