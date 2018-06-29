@@ -4,7 +4,10 @@ This is an overhaul and integration of all DLC, and a few select mods.
 
 ## Required DLC
 * Automatron
+* Wasteland Workshop
 * Far Harbor
+* Contraptions Workshop
+* Vault-Tec Workshop
 * Nuka-World
 
 ## Required Mods
