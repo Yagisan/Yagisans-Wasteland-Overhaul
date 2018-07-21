@@ -66,6 +66,7 @@ Required Creation Club Items are additional items distributed in the game.
 
 #### Brotherhood of Steel
 * The Brotherhood of Steel now only wear Brotherhood of Steel armor.
+* The Brotherhood of Steel pilots uniforms synced to the UFO4P.
 * The Brotherhood of Steel now use Brotherhood of Steel branded laser weapons, gattling lasers, miniguns and missile launchers.
 * The Brotherhood of Steel vendors now only sell Brotherhood of Steel branded weapons.
 
