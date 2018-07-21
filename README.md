@@ -96,3 +96,9 @@ Required Creation Club Items are additional items distributed in the game.
 
 #### Ronnie Shaw
 * Ronnie Shaw now sells MM Clothing.
+
+#### Bunker Hill Caravans
+* Sandbox Radius for all traders quintupled. (512 to 2560)
+* Sandbox Radius for all trader guards trippled. (512 to 1536)
+* Sandbox Radius for all trader brahmin trippled. (500 to 1500)
+
