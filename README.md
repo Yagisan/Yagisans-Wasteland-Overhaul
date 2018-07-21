@@ -59,6 +59,9 @@ Required Creation Club Items are additional items distributed in the game.
 ### Chems
 * Nuka-World chems are now found in the Commonwealth.
 
+### Sim Settlements
+* Sim Settlements lights not give off shadows.
+
 ### Factions
 
 #### Brotherhood of Steel
