@@ -88,6 +88,10 @@ Required Creation Club Items are additional items distributed in the game.
 
 ### NPCS
 
+#### All
+* Vertical Sandboxing now goes up to 576 (2 floors up)
+* Vertical Sandboxing now goes up to -576 (2 floors down)
+
 #### Automatron Robots
 * Automatron Robots recruit dialogue will come up only if you choose to initiate the conversation.
 
