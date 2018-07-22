@@ -23,6 +23,8 @@ Required Creation Club Items are additional items distributed in the game.
 * [Coffee and Donuts Workshop Pack](https://creationclub.bethesda.net/en) (ccfsvfo4003-slocum.esl )
 * [Armor Paint Job - Brotherhood of Steel](https://creationclub.bethesda.net/en) ( ccgcafo4013-factionas02bos.esl )
 * [Weapon Paint Job - Brotherhood of Steel](https://creationclub.bethesda.net/en) ( ccgcafo4003-factionws03bos.esl )
+* [Weapon Paint Job - Gunners](https://creationclub.bethesda.net/en) ( ccgcafo4004-factionws04gun.esl )
+* [Weapon Paint Job - Insitute](https://creationclub.bethesda.net/en) ( ccgcafo4008-factionws08inst.esl )
 
 ## Changes
 
@@ -60,7 +62,7 @@ Required Creation Club Items are additional items distributed in the game.
 * Nuka-World chems are now found in the Commonwealth.
 
 ### Sim Settlements
-* Sim Settlements lights not give off shadows.
+* Sim Settlements lights now give off shadows.
 
 ### Factions
 
@@ -106,4 +108,9 @@ Required Creation Club Items are additional items distributed in the game.
 * Sandbox Radius for all traders quintupled. (512 to 2560)
 * Sandbox Radius for all trader guards trippled. (512 to 1536)
 * Sandbox Radius for all trader brahmin trippled. (500 to 1500)
+
+### Weapons
+* Creation Club Brotherhood of Steel skinned weapons created for: 10mm, .44, Hunting Rifle, Assault Rifle, Combat Shotgun, Laser, Missile Launcher, Minigun, Gattling Gun, and Insitute Weapons.
+* Creation Club Gunner skinned weapons created for: 10mm, .44, Hunting Rifle, Assault Rifle, Combat Shotgun, Laser, Missile Launcher, Minigun, Gattling Gun, and Insitute Weapons.
+* Creation Club Insitute skinned weapons created for: 10mm, .44, Hunting Rifle, Assault Rifle, Combat Shotgun, Laser, Missile Launcher, Minigun, Gattling Gun, and Insitute Weapons.
 
