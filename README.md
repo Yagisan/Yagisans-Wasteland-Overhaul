@@ -108,6 +108,12 @@ Required Creation Club Items are additional items distributed in the game.
 * Sandbox Radius for all traders quintupled. (512 to 2560)
 * Sandbox Radius for all trader guards trippled. (512 to 1536)
 * Sandbox Radius for all trader brahmin trippled. (500 to 1500)
+* Trashcan Carla now has an eyebot instead of a brahmin.
+* Cricket now has a brahmaluff instead of a brahmin.
+
+#### Settlement Provisioners
+* Provisioners now spawn with an Automatron Style Mr Handy, called a Logistics Bot, instead of a brahmin.
+* The Logistics Bot outfitted for carrying supplies. It also armed and will defend itself, friends and allies.
 
 ### Weapons
 * Creation Club Brotherhood of Steel skinned weapons created for: 10mm, .44, Hunting Rifle, Assault Rifle, Combat Shotgun, Laser, Missile Launcher, Minigun, Gattling Gun, and Insitute Weapons.
