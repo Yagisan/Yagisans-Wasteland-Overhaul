@@ -120,3 +120,15 @@ Required Creation Club Items are additional items distributed in the game.
 * Creation Club Gunner skinned weapons created for: 10mm, .44, Hunting Rifle, Assault Rifle, Combat Shotgun, Laser, Missile Launcher, Minigun, Gattling Gun, and Insitute Weapons.
 * Creation Club Insitute skinned weapons created for: 10mm, .44, Hunting Rifle, Assault Rifle, Combat Shotgun, Laser, Missile Launcher, Minigun, Gattling Gun, and Insitute Weapons.
 
+## Yagisan's Better Caravans.
+Yagisan_WO_Better_Caravans.esl
+
+* Trashcan Carla now has a unique Protectron instead of a brahmin.
+* Lucas now has a unique Protectron instead of a brahmin.
+* Doc Weathers now has a unique Protectron instead of a brahmin.
+* Cricket now has a unique Assaultron instead of a brahmin.
+* Sandbox Radius for all traders quintupled. (512 to 2560)
+* Sandbox Radius for all trader guards trippled. (512 to 1536)
+* Sandbox Radius for all trader "brahmin" trippled. (500 to 1500)
+* Provisioners now have Mr Handy based Logistics Bots instead of brahmin.
+
