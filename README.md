@@ -104,17 +104,6 @@ Required Creation Club Items are additional items distributed in the game.
 #### Ronnie Shaw
 * Ronnie Shaw now sells MM Clothing.
 
-#### Bunker Hill Caravans
-* Sandbox Radius for all traders quintupled. (512 to 2560)
-* Sandbox Radius for all trader guards trippled. (512 to 1536)
-* Sandbox Radius for all trader brahmin trippled. (500 to 1500)
-* Trashcan Carla now has an eyebot instead of a brahmin.
-* Cricket now has a brahmaluff instead of a brahmin.
-
-#### Settlement Provisioners
-* Provisioners now spawn with an Automatron Style Mr Handy, called a Logistics Bot, instead of a brahmin.
-* The Logistics Bot outfitted for carrying supplies. It also armed and will defend itself, friends and allies.
-
 ### Weapons
 * Creation Club Brotherhood of Steel skinned weapons created for: 10mm, .44, Hunting Rifle, Assault Rifle, Combat Shotgun, Laser, Missile Launcher, Minigun, Gattling Gun, and Insitute Weapons.
 * Creation Club Gunner skinned weapons created for: 10mm, .44, Hunting Rifle, Assault Rifle, Combat Shotgun, Laser, Missile Launcher, Minigun, Gattling Gun, and Insitute Weapons.
@@ -123,12 +112,18 @@ Required Creation Club Items are additional items distributed in the game.
 ## Yagisan's Better Caravans.
 Yagisan_WO_Better_Caravans.esl
 
-* Trashcan Carla now has a unique Protectron instead of a brahmin.
-* Lucas now has a unique Protectron instead of a brahmin.
-* Doc Weathers now has a unique Protectron instead of a brahmin.
-* Cricket now has a unique Assaultron instead of a brahmin.
-* Sandbox Radius for all traders quintupled. (512 to 2560)
-* Sandbox Radius for all trader guards trippled. (512 to 1536)
-* Sandbox Radius for all trader "brahmin" trippled. (500 to 1500)
-* Provisioners now have Mr Handy based Logistics Bots instead of brahmin.
+### NPCS
 
+#### Settlement Provisioners
+* Provisioners now spawn with an Automatron Style Mr Handy, called a Logistics Bot, instead of a brahmin.
+* The Logistics Bot is outfitted for carrying supplies. It also armed with a saw, pincer, and laser gun. It will defend itself, friends and allies.
+
+#### Bunker Hill Caravans
+* Sandbox Radius for all traders quintupled. (512 to 2560)
+* Sandbox Radius for all trader guards tripled. (512 to 1536)
+* Sandbox Radius for all trader brahmin tripled. (500 to 1500)
+
+* Trashcan Carla now has a unique Protectron instead of a brahmin. It comes equipped with a nailgun, and an assaultron shock claw.
+* Lucas now has a unique Protectron instead of a brahmin. It comes equipped with a lightning gun, and an assaultron shock claw.
+* Doc Weathers now has a unique Protectron instead of a brahmin. It comes equipped with an automatic laser, and a shock claw.
+* Cricket now has a unique Assaultron instead of a brahmin. It comes equipped with a hammer/saw, an assaultron shock claw and an assaultron head laser.
