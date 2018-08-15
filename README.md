@@ -127,3 +127,9 @@ Yagisan_WO_Better_Caravans.esl
 * Lucas now has a unique Protectron instead of a brahmin. It comes equipped with a lightning gun, and an assaultron shock claw.
 * Doc Weathers now has a unique Protectron instead of a brahmin. It comes equipped with an automatic laser, and a shock claw.
 * Cricket now has a unique Assaultron instead of a brahmin. It comes equipped with a hammer/saw, an assaultron shock claw and an assaultron head laser.
+
+## Yagisan's Insignificant Object Remover.
+Yagisan_WO_Insignificant_Object_Remover.esl
+
+### Grass
+* Reduces density to 0 for procedually generated grass, rocks, and twigs.
