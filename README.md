@@ -111,6 +111,7 @@ Required Creation Club Items are additional items distributed in the game.
 
 ## Yagisan's Better Caravans.
 Yagisan_WO_Better_Caravans.esl
+Yagisan_WO_Better_Caravans.esp (Identical to ESL. Only for use if using another mod that edits the same records. ESL preferred)
 
 ### NPCS
 
