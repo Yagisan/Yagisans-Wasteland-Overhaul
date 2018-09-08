@@ -133,3 +133,30 @@ Yagisan_WO_Insignificant_Object_Remover.esl
 
 ### Grass
 * Reduces density to 0 for procedually generated grass, rocks, and twigs.
+
+## Yagisan's Broken Settlement Repairs.
+Yagisan_SSCP_Broken_Settlement_Repairs.esp
+
+This is a combined patch to fix errors and mistakes in settlement mods, and have them play nicely with each other, and all official DLC. It was made primarily to fix problems with settlements that I have made SimSettlements City Plans for.
+
+### [Vault 111 Settlement](https://www.nexusmods.com/fallout4/mods/19663)
+Respawning containers now produce Vault 111 gear, not Vault 101.
+Respawning container in the oversear room no longer respawns.
+Dirty edits to the Vault 81 location replaced with the DLCworkshop03 version of the record.
+Broken terminal script fragments removed.
+
+### [Northern Exposure](https://www.nexusmods.com/fallout4/mods/29900)
+Deleted references replaced with undeleted and disabled references.
+Merged in overwritten DLCCoast records.
+
+### [Natick Power Substation](https://www.nexusmods.com/fallout4/mods/29760)
+Deleted references replaced with undeleted and disabled references.
+
+### [Lakeside Cabin Redux](https://www.nexusmods.com/fallout4/mods/19463)
+NPC Vendor is now protected, and can only be killed by the player.
+NPC Vendor is now a member of the WorkshopNPCFaction.
+
+### [Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods/17681) Version 1.5
+Deleted references replaced with undeleted and disabled references.
+Repaired broken physics and cell previs in Far Harbor.
+Repair Location Data.
