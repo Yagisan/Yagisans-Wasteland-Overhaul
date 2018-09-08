@@ -109,8 +109,8 @@ Required Creation Club Items are additional items distributed in the game.
 * Creation Club Gunner skinned weapons created for: 10mm, .44, Hunting Rifle, Assault Rifle, Combat Shotgun, Laser, Missile Launcher, Minigun, Gattling Gun, and Insitute Weapons.
 * Creation Club Insitute skinned weapons created for: 10mm, .44, Hunting Rifle, Assault Rifle, Combat Shotgun, Laser, Missile Launcher, Minigun, Gattling Gun, and Insitute Weapons.
 
-## Yagisan's Better Caravans.
-Yagisan_WO_Better_Caravans.esl
+## [Yagisan's Better Caravans](https://www.nexusmods.com/fallout4/mods/33787)
+Yagisan_WO_Better_Caravans.esl  
 Yagisan_WO_Better_Caravans.esp (Identical to ESL. Only for use if using another mod that edits the same records. ESL preferred)
 
 ### NPCS
