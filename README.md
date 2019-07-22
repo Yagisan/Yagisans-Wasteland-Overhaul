@@ -117,12 +117,13 @@ Yagisan_WO_Better_Caravans.esp (Identical to ESL. Only for use if using another 
 
 #### Settlement Provisioners
 * Provisioners now spawn with an Automatron Style Mr Handy, called a Logistics Bot, instead of a brahmin.
+* Provisioners now start and end closer to the centre of the settlement. (1500 to 750)
 * The Logistics Bot is outfitted for carrying supplies. It also armed with a saw, pincer, and laser gun. It will defend itself, friends and allies.
 
 #### Bunker Hill Caravans
-* Sandbox Radius for all traders quintupled. (512 to 2560)
-* Sandbox Radius for all trader guards tripled. (512 to 1536)
-* Sandbox Radius for all trader brahmin tripled. (500 to 1500)
+* Sandbox Radius for all traders doubled. (512 to 1024)
+* Sandbox Radius for all trader guards doubled. (512 to 1024)
+* Sandbox Radius for all trader brahmin doubled. (500 to 1024)
 
 * Trashcan Carla now has a unique Protectron instead of a brahmin. It comes equipped with a nailgun, and an assaultron shock claw.
 * Lucas now has a unique Protectron instead of a brahmin. It comes equipped with a lightning gun, and an assaultron shock claw.
